@@ -1,9 +1,12 @@
 body {
+    
     margin: 0;
-    padding: 0;
-    background: #fdc9d1;
+    padding: 80;
+    background: #dac2f3d8;
     font-size: 12px;
-    overflow: auto
+    overflow: auto;
+    
+    
 }
 
 #mainDiv {
@@ -92,14 +95,14 @@ body {
 }
 
 #code .comments {
-    color: #3f7f5f
+    color: #0d3822
 }
 
 #copyright {
     margin-top: 40px;
     text-align: center;
     width: 100%;
-    color: #666
+    color: rgb(0, 0, 0)
 }
 
 #errorMsg {
