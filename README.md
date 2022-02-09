@@ -1,2 +1,1 @@
-# My Love Story
-Site: http://love.cuiqingcai.com/
+# Minha historia de amor
